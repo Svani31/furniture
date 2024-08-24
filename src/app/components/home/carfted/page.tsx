@@ -1,6 +1,6 @@
-import image1 from "@/Images/charit1.png"
-import image2 from "@/Images/chair2.png"
-import image3 from "@/Images/chair3.png"
+import image1 from "../../../../../Images/charit1.png"
+import image2 from "../../../../../Images/chair2.png"
+import image3 from "../../../../../Images/chair3.png"
 import Image from "next/image";
 
 const Crafted = () => {

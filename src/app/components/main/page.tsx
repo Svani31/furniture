@@ -1,5 +1,4 @@
-import Body from "../components/home/body/page"
-import Home from "../components/home/page"
+import Home from "../home/page"
 
 
 

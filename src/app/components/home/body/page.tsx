@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import LogoImage from "@/Images/MainLogo.png"
+import LogoImage from "../../../../../Images/couch 1.png"
 
 
 
