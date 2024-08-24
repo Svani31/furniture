@@ -1,6 +1,7 @@
 import Header from "../header/page"
 import Body from "./body/page"
 import Crafted from "./carfted/page"
+import Choose from "./choose/page"
 
 
 const Home = () =>{
@@ -9,6 +10,7 @@ const Home = () =>{
             <Header/>
             <Body/>
             <Crafted/>
+            <Choose/>
         </div>
     )
 }
