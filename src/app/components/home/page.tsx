@@ -1,5 +1,5 @@
-import Body from "@/app/components/home/body/page"
 import Header from "../header/page"
+import Body from "./body/page"
 import Crafted from "./carfted/page"
 
 
